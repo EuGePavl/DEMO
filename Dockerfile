@@ -1,6 +1,6 @@
 FROM openjdk:21-jdk-slim
 
-LABEL authors="Biza"
+LABEL authors="EuGePavl"
 
 WORKDIR /app
 
